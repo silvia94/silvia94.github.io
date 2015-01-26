@@ -23,6 +23,16 @@ textarea {
   color: #222;
 }
 
+body { background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAHCAYAAAAvZezQAAAAJklEQVQIW2NkQAX/GZH4/4FsRpgAmAOSBBFwDkwAxRRkM8ASGAIAT+8EB1MrWfMAAAAASUVORK5CYII=) 
+    repeat; } 
+  
+
+.body_special {
+   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVQIW2OMq7zlw4ADMIIkF7WrbcEmP+gkAarWGgXyq5CNAAAAAElFTkSuQmCC
+
+   ) repeat;
+}
+
 body {
   font-size: 1em;
   line-height: 1.4;
