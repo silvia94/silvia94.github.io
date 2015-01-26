@@ -3717,7 +3717,7 @@ body.open {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #4285f4;
+  background-color: #cb4437;
   overflow: hidden;
   z-index: 1;
 }
@@ -3925,7 +3925,7 @@ main {
     max-width: 864px;
     padding: 0 16px;
     box-sizing: border-box;
-    background-color: #4285f4;
+    background-color: #cb4437;
   }
 
   .app-bar .logo {
