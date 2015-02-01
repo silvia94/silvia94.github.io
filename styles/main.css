@@ -30,6 +30,7 @@ body { background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAHCAYA
 .body_special {
    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVQIW2OMq7zlw4ADMIIkF7WrbcEmP+gkAarWGgXyq5CNAAAAAElFTkSuQmCC
 
+
    ) repeat;
 }
 
@@ -2297,6 +2298,12 @@ ol {
   padding-top: 1.6250em;
   padding-bottom: 0;
 }
+
+.ciao{font-size: 16px;
+  line-height: 1.6250em;
+  /* 26px */
+  padding-top: 1.6250em;
+  padding-bottom: 0;}
 
 .medium,
 h4 {
